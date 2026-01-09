@@ -21,16 +21,16 @@ const Contact = () => {
           alt=""
         />
         <div className="flex flex-col justify-center items-start gap-6">
-          <p className="font-semibold text-xl text-gray-600 ">Our Store</p>
+          <p className="font-semibold text-xl text-gray-600 ">Unser Store</p>
           <p className="text-gray-500 ">
             {" "}
             Magdaburger Str. 50 <br />
             14770, Brandenburg an der Havel{" "}
           </p>
           <p className="text-gray-500">Tel: +49-123456789</p>
-          <p className="font-semibold text-xl text-gray-600">Moroccan Shop</p>
+          <p className="font-semibold text-xl text-gray-600">E-Mail: kundenservice@forever-shop.de</p>
           <p className="text-gray-500">
-            Learn more about our Teams and job openings
+            Erfahren Sie mehr über unsere Teams und aktuelle Stellenausschreibungen.
           </p>
           <Button text1={"Explore Jobs"} clickMethod={() => navigate("/")} />
         </div>

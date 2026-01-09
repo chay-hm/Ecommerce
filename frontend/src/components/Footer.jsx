@@ -9,10 +9,7 @@ const Footer = () => {
         <div>
           <img src={assets.logo} className="mb-5 w-32 " alt="" />
           <p className="w-full md:w-2/3 text-gray-600">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero in qui
-            amet cum, placeat rerum vel nam, inventore, natus voluptatem labore
-            fugit debitis dolorem laboriosam sapiente accusamus sequi
-            praesentium voluptatum.
+            Forever ist dein Ziel für zeitlose Mode für die ganze Familie. Von eleganten Essentials für Damen und Herren bis hin zu bequemen Styles für Kinder – wir bieten hochwertige Qualität für jede Generation. Entdecke Mode, die bleibt.
           </p>
         </div>
 
@@ -32,7 +29,7 @@ const Footer = () => {
           <p className="text-xl font-medium mb-5">Kontaktieren Sie uns</p>
           <ul className="flex flex-col gap-1 text-gray-600">
             <li>+49-3388-12345678</li>
-            <li>contact@marokko-shop.com</li>
+            <li>kundenservice@forever-fashion.de</li>
           </ul>
         </div>
       </div>
@@ -41,7 +38,7 @@ const Footer = () => {
         <hr />
         <p className="py-5 text-sm text-center">
           {" "}
-          Copyright @ 2025 Marokko Shop - All Right Reserved
+          Copyright © 2026 Forever – Alle Rechte vorbehalten.
         </p>
       </div>
     </div>

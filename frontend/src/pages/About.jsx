@@ -18,17 +18,13 @@ const About = () => {
         />
         <div className="flex flex-col justify-center gap-6 md:w-2/4 text-gray-600">
           <p>
-            Welcome to our e-commerce platform! We are passionate about
-            delivering quality products and a seamless shopping experience. Our
-            mission is to connect you with the best brands and unique finds, all
-            in one place.
+            Willkommen auf unserer E-Commerce-Plattform! Unsere Leidenschaft gilt der Lieferung von Qualitätsprodukten und einem nahtlosen Einkaufserlebnis.
+            Unsere Mission ist es, Sie an einem Ort mit den besten Marken und einzigartigen Fundstücken zu verbinden.
           </p>
-          <b className="text-gray-800"> Our Mission</b>
+          <b className="text-gray-800"> Unsere Mission</b>
           <p className="text-gray-600 mb-4">
-            Our team is dedicated to customer satisfaction, innovation, and
-            reliability. Whether you're shopping for the latest trends or
-            everyday essentials, we strive to make your journey enjoyable and
-            secure.
+            Unser Team widmet sich voll und ganz der Kundenzufriedenheit, Innovation und Zuverlässigkeit. Egal, ob Sie nach den neuesten Trends oder dem täglichen Bedarf für die ganze Familie suchen
+             – wir setzen alles daran, Ihren Einkauf angenehm und sicher zu gestalten.
           </p>
         </div>
       </div>
@@ -39,10 +35,10 @@ const About = () => {
 
       <div className="flex flex-col md:flex-row text-sm mb-20">
         <div className="border px-10 md:px-16 py-8 sm:py-20 flex flex-col gap-5">
-          <b>Your Shop Experience matters!</b>
+          <b>Dein Einkaufserlebnis zählt!</b>
           <p>
-            Thank you for choosing us. We look forward to serving you and making
-            your online shopping experience exceptional!
+            Vielen Dank, dass Sie sich für uns entschieden haben. 
+            Wir freuen uns darauf, Ihnen behilflich zu sein und Ihren Online-Einkauf zu einem besonderen Erlebnis zu machen!
           </p>
         </div>
       </div>
